@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação de um som feito totalmente pela IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ao utilizar o site boomy, consegui criar uma música do zero, mudando todos os parametros sem ajuda de um músico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+BOOMY
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o site BOOMY, e modifiquei tudo, criando um som especial com nome DIO
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://boomy.com/s/19518207)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Experiência muito divertida kkkkkkk surreal
 ```
 
 ### Exemplos e Insigths
